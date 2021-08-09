@@ -9,5 +9,8 @@ def foo():
 
 // [START sample_two]
 def bar():
+// sample-metadata:
+//   title: YourSample
+//   description: "Another super cool sample"
   return 'bar'
 // [END sample_two]
